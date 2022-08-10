@@ -1,9 +1,13 @@
 class script(object):
     START_TXT = """<b>Hello {}🙋‍♂️,</b>
 <b>My Name Is <a href=https://t.me/{}>{}</a>,</b>
+
 <b>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter Bot In Your Group ..</b>
+
 <b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓</b>
+
 <b>⚠️More Help Check Help Button Below</b>
+
 <b>©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/TechGuideLKChannel>TechGuideLK</a></b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
